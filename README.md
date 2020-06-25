@@ -35,9 +35,9 @@ Now lets Go through Various **Algorithms**.
 #### A. Simple Linear Regression
 
 
-1.  Newspaper Data [NewspaperData.CSV](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/NewspaperData.csv [Newspaper_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/Linear%20Regression.R) 
+1.  Newspaper Data [NewspaperData.CSV] (https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/NewspaperData.csv) [Newspaper_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/Linear%20Regression.R) 
 
-2.  Waist Circumference-Adipose Tissue [WC-AT.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/WC_AT.csv)  [WC-AT_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/WC_AT%20Linear%20Regression.R) |
+2.  Waist Circumference-Adipose Tissue [WC-AT.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/WC_AT.csv)  [WC-AT_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/WC_AT%20Linear%20Regression.R) 
 
 
 #### B. Multiple Linear Regression
