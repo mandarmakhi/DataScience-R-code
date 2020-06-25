@@ -12,7 +12,7 @@ To Begin with the **Basics** of the **_Data Science_**, go through the **Practic
  2.  Confidence Interval  [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R) 
  3.  Probability  [Probability.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Probability.r)  
 
-**
+***
 Now we will do the **Descriptive Statistics Analysis** also known as **Exploratory Data Analysis(EDA)**.
 
 ### Descriptive Statistics - Exploratory Data Analysis(EDA).
@@ -21,14 +21,14 @@ Now we will do the **Descriptive Statistics Analysis** also known as **Explorato
  
  2.Air Quality  [Descriptive_Stats_airquality.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Descriptive_Stat2.R) 
 
-**
+***
 Now lets Go through Various **Algorithms**.
 
 ### 1. Hypothesis Testing
 
  1. Hypothesis Testing  [Hypothesis Testing.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Hypothesis%20Testing/Hypothesis%20Testing.R) 
  
- **
+ ***
 
 ### 2. Linear Regression
 
