@@ -17,9 +17,10 @@ Now we will do the **Descriptive Statistics Analysis** also known as **Explorato
 
 ### Descriptive Statistics - Exploratory Data Analysis(EDA).
 
-
  1.Carbon Dioxide(CO2)  [Descriptive_Stats_CO2.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Descriptive_Stats.r) 
+ 
  2.Air Quality  [Descriptive_Stats_airquality.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Descriptive_Stat2.R) 
+
 ***
 Now lets Go through Various Algorithms.
 
