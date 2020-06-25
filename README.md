@@ -9,7 +9,8 @@ To Begin with the **Basics** of the **_Data Science_**, go through the **Practic
 
 ## Practice(Basics)
 
-
+| No. | Name | File |
+| --- | --- | --- |
  1. Basics [practice.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/prac.R)  
  2.  Confidence Interval  [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R) 
  3.  Probability  [Probability.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Probability.r)  
