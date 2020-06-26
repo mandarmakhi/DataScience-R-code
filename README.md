@@ -21,8 +21,10 @@ To Begin with the **Basics** of the **_Data Science_**, go through the **Practic
 
 ## Practice(Basics)
  |1.| Basics| [practice.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/prac.R)|  
- |2.|  Confidence Interval | [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R)|
- |3.|  Probability | [Probability.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Probability.r)|
+
+|2.|  Confidence Interval | [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R)|
+
+|3.|  Probability | [Probability.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Probability.r)|
 
 ***
 Now we will do the **Descriptive Statistics Analysis** also known as **Exploratory Data Analysis(EDA)**.
@@ -55,6 +57,7 @@ Now lets Go through Various **Algorithms**.
 #### B. Multiple Linear Regression
 
 |1.| Cars  [Cars.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Cars.csv) | [Cars_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/multiplr%20linear%20regression%20(Car%20data).R) |
+
 |2.| Corolla  [Toyota_Corolla.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Toyoto.csv)  [Toyota_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/toyota.R) |
 
 
