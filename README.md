@@ -1,3 +1,15 @@
+![](https://img.shields.io/github/followers/mandarmakhi?label=Follow%40mandarmakhi&style=social)
+![](https://img.shields.io/github/forks/mandarmakhi/DataScience-R-code?label=Fork&style=social)
+![](https://img.shields.io/github/stars/mandarmakhi/DataScience-R-code?style=social)
+![](https://img.shields.io/github/watchers/mandarmakhi/DataScience-R-code?style=social)
+![](https://img.shields.io/github/issues/mandarmakhi/DataScience-R-code)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://mandarmakhi.github.io/DataScience-R-code/)]
+![](https://img.shields.io/github/repo-size/mandarmakhi/DataScience-R-code)
+![](https://img.shields.io/github/languages/code-size/mandarmakhi/DataScience-R-code)
+
+
+
+
 # DataScience (R-code)
 
 
