@@ -58,7 +58,6 @@ Now lets Go through Various **Algorithms**.
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
 |1.| Cars  [Cars.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Cars.csv) | [Cars_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/multiplr%20linear%20regression%20(Car%20data).R) |
-
 |2.| Corolla  [Toyota_Corolla.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Toyoto.csv)  [Toyota_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/toyota.R) |
 
 
