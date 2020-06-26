@@ -20,20 +20,18 @@ To Download Rstudio, [Click Here](https://rstudio.com/products/rstudio/download/
 To Begin with the **Basics** of the **_Data Science_**, go through the **Practice(Basics)** Folder in the Repository.
 
 ## Practice(Basics)
-| No | Name | Dataset | File|
-| --- | --- | --- | --- |
+| No | Name |  File|
+| --- | --- | --- |
  |1.| Basics| [practice.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/prac.R)|  
-
 |2.|  Confidence Interval | [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R)|
-
 |3.|  Probability | [Probability.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Probability.r)|
 
 ***
 Now we will do the **Descriptive Statistics Analysis** also known as **Exploratory Data Analysis(EDA)**.
 
 ### Descriptive Statistics - Exploratory Data Analysis(EDA).
-| No | Name | Dataset | File|
-| --- | --- | --- | --- |
+| No | Name |  File|
+| --- | --- | --- |
 | 1.|Carbon Dioxide(CO2) | [Descriptive_Stats_CO2.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Descriptive_Stats.r)| 
  
 | 2.|Air Quality | [Descriptive_Stats_airquality.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Descriptive_Stat2.R) |
@@ -42,8 +40,8 @@ Now we will do the **Descriptive Statistics Analysis** also known as **Explorato
 Now lets Go through Various **Algorithms**.
 
 ### 1. Hypothesis Testing
-| No | Name | Dataset | File|
-| --- | --- | --- | --- |
+| No | Name |  File|
+| --- | --- ||--- |
  |1.| Hypothesis Testing|  [Hypothesis Testing.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Hypothesis%20Testing/Hypothesis%20Testing.R)| 
  
  ***
@@ -54,8 +52,6 @@ Now lets Go through Various **Algorithms**.
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
 |1. |  Newspaper Data| [NewspaperData.CSV](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/NewspaperData.csv)|  [Newspaper_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/WC_AT%20Linear%20Regression.R)| 
-
-
 |2. | Waist Circumference-Adipose issue| [WC-AT.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/WC_AT.csv)|  [WC-AT_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/WC_AT%20Linear%20Regression.R)| 
 
 
@@ -63,7 +59,6 @@ Now lets Go through Various **Algorithms**.
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
 |1.| Cars  [Cars.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Cars.csv) | [Cars_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/multiplr%20linear%20regression%20(Car%20data).R) |
-
 |2.| Corolla  [Toyota_Corolla.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Toyoto.csv)  [Toyota_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/toyota.R) |
 
 
@@ -81,7 +76,6 @@ Now lets Go through Various **Algorithms**.
 ### 4. Association Rule
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
-
  |1. | Titanic| [Titanic.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Titanic.csv) | [Titanic_Association_Rule.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Association%20Rules/Association%20Rules.R) |
 
 
@@ -90,7 +84,6 @@ Now lets Go through Various **Algorithms**.
 ### 5. Principle Component Analysis (PCA) - Combines related Columns
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
-
 |1.|  Cat | [Cat.jpg](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Priciple%20Component%20Analysis(PCA)/repository-open-graph-template%20(1).png)|  [Example1_PCA.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Priciple%20Component%20Analysis(PCA)/repository-open-graph-template%20(1).png) |
 |2.| University | [Universities.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/universities.csv)|  [Universities_PCA.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Priciple%20Component%20Analysis(PCA)/pca_universities.R) |
 
@@ -100,7 +93,6 @@ Now lets Go through Various **Algorithms**.
 ### 6. Clustering - Combining Related Rows
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
-
 |1.|  Universities | [Univesities.csv](https://github.com/pravinknr/DataScience_R_Codes/blob/master/1.%20Practice(Basics)/Clustering/University/Universities.csv) | [Universities_Heirarchical_Clustering.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Clustring/Clustering(university%20data).R)|  [K-Means_Clustering.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Clustring/K-means%20cluster.R) |
 
 ***
