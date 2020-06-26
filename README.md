@@ -40,8 +40,8 @@ Now lets Go through Various **Algorithms**.
 
 ### 1. Hypothesis Testing
 | No | Name |  File|
-|---|--- ||---|
-|1.| Hypothesis Testing|  [Hypothesis Testing.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Hypothesis%20Testing/Hypothesis%20Testing.R)| 
+| --- | --- || --- |
+| 1.| Hypothesis Testing |  [Hypothesis Testing.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Hypothesis%20Testing/Hypothesis%20Testing.R) | 
  
  ***
 
