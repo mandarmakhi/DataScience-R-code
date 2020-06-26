@@ -22,7 +22,7 @@ To Begin with the **Basics** of the **_Data Science_**, go through the **Practic
 ## Practice(Basics)
 | No | Name |  File|
 | --- | --- | --- |
- |1.| Basics| [practice.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/prac.R)|  
+|1.| Basics| [practice.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/prac.R)|  
 |2.|  Confidence Interval | [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R)|
 |3.|  Probability | [Probability.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Probability.r)|
 
@@ -42,7 +42,7 @@ Now lets Go through Various **Algorithms**.
 ### 1. Hypothesis Testing
 | No | Name |  File|
 | --- | --- ||--- |
- |1.| Hypothesis Testing|  [Hypothesis Testing.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Hypothesis%20Testing/Hypothesis%20Testing.R)| 
+|1.| Hypothesis Testing|  [Hypothesis Testing.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Hypothesis%20Testing/Hypothesis%20Testing.R)| 
  
  ***
 
@@ -59,6 +59,7 @@ Now lets Go through Various **Algorithms**.
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
 |1.| Cars  [Cars.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Cars.csv) | [Cars_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/multiplr%20linear%20regression%20(Car%20data).R) |
+
 |2.| Corolla  [Toyota_Corolla.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Toyoto.csv)  [Toyota_Multi_Linear_Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/toyota.R) |
 
 
@@ -68,7 +69,7 @@ Now lets Go through Various **Algorithms**.
 
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
- |1.|  Claimants | [Claimants.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/claimants.csv)|  [Logistic Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/Logistic%20Regression.R) |
+|1.|  Claimants | [Claimants.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/claimants.csv)|  [Logistic Regression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/Logistic%20Regression.R) |
 
 
 ***
@@ -76,7 +77,7 @@ Now lets Go through Various **Algorithms**.
 ### 4. Association Rule
 | No | Name | Dataset | File|
 | --- | --- | --- | --- |
- |1. | Titanic| [Titanic.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Titanic.csv) | [Titanic_Association_Rule.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Association%20Rules/Association%20Rules.R) |
+|1. | Titanic| [Titanic.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Titanic.csv) | [Titanic_Association_Rule.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Association%20Rules/Association%20Rules.R) |
 
 
 ***
