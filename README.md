@@ -23,7 +23,7 @@ To Begin with the **Basics** of the **_Data Science_**, go through the **Practic
 
 1.Basics [practice.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/prac.R) 
 
-2.Confidence Interval | [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R)
+2.Confidence Interval  [Confidence_Interval.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/confidence_interval.R)
 
 3.Probability  [Probability.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Other/Probability.r)
 
@@ -51,7 +51,7 @@ Now lets Go through Various **Algorithms**.
 
 1.Newspaper Data [NewspaperData.CSV](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/NewspaperData.csv)  [Newspaper_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/WC_AT%20Linear%20Regression.R)
 
-2.Waist Circumference-Adipose issue| [WC-AT.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/WC_AT.csv)  [WC-AT_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/WC_AT%20Linear%20Regression.R) 
+2.Waist Circumference-Adipose issue [WC-AT.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/WC_AT.csv)  [WC-AT_LinearRegression.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/LinearReggresion/WC_AT%20Linear%20Regression.R) 
 
 
 #### B. Multiple Linear Regression
