@@ -99,3 +99,108 @@ Now lets Go through Various **Algorithms**.
 1.Unemployment  [Survival_Unemployment.csv](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/survival_unemployment1.csv) [Survival_Unemployment.r](https://https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Survival%20Analysis/Survival%20Analysis.R) 
 
 ***
+
+## Now Lets see Various **Supervised Machine Learning Algorithms(Techniques)**
+
+
+### 1. Decision Tree
+
+#### There are 2 Techniques in Decision Tree - `Bagging Technique` and `Boosting Technique`
+
+
+ 1.  Example 1 [DecisionTree.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/SupervisedMachineLearning/DecisionTree.R)  [Decision_tree_Bagging.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/EnsemblingTechniques/Bagging.R)  [Decision_Tree_Bagging+Boosting.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/EnsemblingTechniques/Boosting%2BBagging.R) 
+
+
+***
+
+### 2. K-Nearest Neighbour(KNN)
+
+
+1.  Cancer  [KNN.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/KNN.csv)  [K-Nearest_Neighbour.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/SupervisedMachineLearning/K_NN.R) 
+
+***
+
+### 3. Random Forest
+
+
+1. Iris  Available in R Datasets [random_forest.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/iris/iris_data.R) 
+
+***
+
+### 4. Artificial Neural Networks
+
+
+1.  Concrete [concrete.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/concrete.csv)  [Concrete_Neural_Network.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/SupervisedMachineLearning/neural_network.R) 
+
+***
+
+### 5. Support Vector Machine(SVM)
+
+
+ 1.  Letter Data  [LetterData.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/letterdata.csv)  [LetterData_Support_Vector_Machine.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/SupervisedMachineLearning/Support_Vector_Machine(SVM).R) 
+
+***
+
+### 6. Naive Bayes Classifier
+
+ 1.  SMS Spam  [sms_spam.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/sms_spam.csv)  [Naive_Bayes_Sms_Spam.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/SupervisedMachineLearning/NaiveBayes.R) 
+
+***
+
+### 7. Forecasting Analysis
+
+
+ 1.  Amtrak  [Amtrak.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Amtrak.csv) | [Predict_new.xlsx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Predict_new.xlsx) | [Amtrak_Forecasting.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Forecasting_Method/ForeCasting.R) 
+
+2.  Aviation  [Aviation.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Aviation.csv)  [Aviation_Exponential_Smooting_Forecasting.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Forecasting_Method/Exponential_Smoothing_Predict.R) 
+
+***
+
+### 8. NLP - Natural Language Processing (Text Mining)
+#### There are Two Approaches - `Emotion Mining` and `Sentiment Analysis`.
+
+We require [Positive Words](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/text%20mining/Amazon%20iphone/positive-words.txt) and [Negative Words](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/text%20mining/Amazon%20iphone/negative-words.txt) for the Analysis.
+
+
+ 1.  Emotion Mining [Amazon Nokia Lumia Reviews.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/amazon%20nokia%20lumia%20reviews.txt)  [Emotion_Mining_Amazon.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Text_Mining/Emotion_Mining.R) 
+
+2.  Sentiment Analysis [McD_Small.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/csv%20files/Mcd_Small.csv)  [Sentiment Analysis_McD.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Text_Mining/SentimentalAnalysis.R) 
+
+***
+
+### Web Scraping
+
+If you want to extract the Reviews of a particular Product from Amazon then Run the Below Code in Rstudio.
+
+**This Code is Valid only for the Products on Amazon**.
+
+*The Code Varies from site to site*.
+
+```rstudio
+install.packages("rvest")
+install.packages("XML")
+install.packages("magrittr")
+
+library(rvest)
+library(XML)
+library(magrittr)
+
+# Amazon Reviews #############################
+aurl <- "URL of Product Reviews page"
+amazon_reviews <- NULL
+for (i in 1:10){
+  murl <- read_html(as.character(paste(aurl,i,sep="=")))
+  rev <- murl %>%
+    html_nodes(".review-text") %>%
+    html_text()
+  amazon_reviews <- c(amazon_reviews,rev)
+}
+length(amazon_reviews)
+write.table(amazon_reviews,"apple.txt",row.names = F)
+```
+I have Performed this code for Extracting [Reviews of Apple Macbook Air](https://github.com/mandarmakhi/DataScience-R-code/blob/master/1.%20Practice/Text_Mining/Text_Mining.R), Do check it Out.
+
+***
+
+## After Going Through the basics, We will Now Perform Algorithms on Different Datasets.
+
