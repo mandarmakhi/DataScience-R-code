@@ -280,3 +280,32 @@ I have Performed this code for Extracting [Reviews of Apple Macbook Air](https:/
  1. Wine  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/PCA/Win_PCA/PCA_problem%20Statement.txt)  [Wine.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/PCA/Win_PCA/wine.csv)  [Wine_PCA.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/PCA/Win_PCA/pca_wine.R) 
 
 ***
+
+## Supervised Machine Learning Algorithms
+
+### 1. Decision Tree
+
+
+ 1. Company Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Company_Data/problem%20statement(company%20data).txt)  [Company_Data.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Company_Data/Company_Data.csv)  [Company_Data.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Company_Data/Company_Decision%2BTree.R) 
+ 
+ 2.  Fraud Check  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Fraud_check/Problem_statement(Fraudcheck).txt)  [Fraud_Check.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Fraud_check/Fraud_check.csv)  [Fraud_Check.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Fraud_check/fraud_data_Decision%2BTree.R) 
+ 
+
+### 2. Random Forest
+
+
+ 1. Company Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Company_Data/problem%20statement(company%20data).txt)  [Company_Data.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Company_Data/Company_Data.csv)  [Company_Data.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Company_Data/company_data.R) 
+ 
+ 2.  Fraud Check  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Fraud_check/Problem_statement(Fraudcheck).txt)  [Fraud_Check.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Fraud_check/Fraud_check.csv)  [Fraud_Check.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Fraud_check/Fraud_Check.R) 
+ 
+ 3.  Iris  [.pdf](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/iris/problem%20statement(iris).pdf)  Available in R Dataset  [Iris.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/iris/iris_data.R) 
+
+### 3. K-Nearest Neighbour (KNN) Classifier
+
+
+ 1.  Glass Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/glass/problem_statement(Glass).txt)  [Glass.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/glass/glass.csv)  [Glass.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/glass/glass.R) 
+
+2.  Zoo  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/Zoo/Problem_Statement(Zoo).txt)  [Zoo.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/Zoo/Zoo.csv)  [Zoo.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/Zoo/Zoo_KNN.R) 
+
+***
+
