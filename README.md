@@ -205,3 +205,78 @@ I have Performed this code for Extracting [Reviews of Apple Macbook Air](https:/
 
 ## After Going Through the basics, We will Now Perform Algorithms on Different Datasets.
 
+
+
+## Implementation of Algorithms on Datasets
+
+### 1. Hypothesis Testing
+
+ 1.  Buyer Ratio  [.pptx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/BuyersRatio_Hypothesis%20Testing/Hypothesis_Testing_Assignment.pptx)  [BuyerRatio.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/BuyersRatio_Hypothesis%20Testing/BuyerRatio.csv)  [BuyerRatio.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/BuyersRatio_Hypothesis%20Testing/BuyersRatio_Hypothesis%20Testing.R) 
+
+2.  Customer Order Form  [.pptx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Costomer%2BOrderForm_hypothesisTesting/Hypothesis_Testing_Assignment.pptx)  [Customer+OrderForm.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Costomer%2BOrderForm_hypothesisTesting/Costomer%2BOrderForm.csv)  [Customer+OrderForm.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Costomer%2BOrderForm_hypothesisTesting/Costomer%2BOrderForm_hypothesisTesting.R) 
+ 
+ 3.  Cutlet Diameter  [.pptx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Cutlet_HypothesTesting/Hypothesis_Testing_Assignment.pptx)  [Cutlets.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Cutlet_HypothesTesting/Cutlets.csv)  [Cutlet_Hyp_Test.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Cutlet_HypothesTesting/Cutlet_HypothesTesting.R) 
+ 
+ 4.  Fantaloons  [.pptx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Fantaloons_HypothesisTesting/Hypothesis_Testing_Assignment.pptx)  [Fantaloons.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Fantaloons_HypothesisTesting/Faltoons.csv)  [Fantaloons.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/Fantaloons_HypothesisTesting/Fantaloons_HypothesisTesting.R) 
+ 
+ 5.  Lab  [.pptx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/LabTAT_HypothesisTesting/Hypothesis_Testing_Assignment.pptx)  [LabTAT.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/LabTAT_HypothesisTesting/LabTAT.csv)  [Lab_Hyp_Anova_test.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Hypothesis%20Testing/LabTAT_HypothesisTesting/LabTAT_HypothesisTesting.R) 
+
+***
+
+### 2. Linear Regression
+
+#### A. Simple Linear regression
+
+ 1.  Calories Consumed  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/calories_simplelinear/Problem_statements.txt)  [Calories_Consumed.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/calories_simplelinear/calories_consumed.csv)  [Calories_Simple_Linear.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/calories_simplelinear/calories_simplelinear.r) 
+ 
+ 2.  Delivery Time Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/calories_simplelinear/Problem_statements.txt)  [Delivery_Time.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/delivery_SimpleLinearRegression/delivery_time.csv)  [Delivery_Simple_Linear_Regression.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/delivery_SimpleLinearRegression/delivery_SimpleLinearRegression.r) 
+ 
+ 3.  Employee Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/calories_simplelinear/Problem_statements.txt)  [Emp_Data.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/emp_simplelinear/emp_data.csv)  [Emp_Simple_Linear.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/emp_simplelinear/emp_simplelinear.r) 
+ 
+ 4.  Salary Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/calories_simplelinear/Problem_statements.txt)  [Salary_Data.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/salary_simplelinear/Salary_Data.csv)  [Salary_Simple_Linear.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Simple%20Linear/salary_simplelinear/salary_simplelinear.r) 
+
+***
+
+#### B. Multi Linear Regression
+
+
+ 1.  50 Startup  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/50Startup_MultiLinear/proble_statement(50_startups).txt)  [50_Startups.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/50Startup_MultiLinear/50_Startups.csv)  [50_Startup_Multi_Linear.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/50Startup_MultiLinear/50Startup_MultiLinear%20.r) 
+ 
+ 2.  Computer Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/Computer_MultiLinear/problem_Statement(computer_data).txt)  [Computer_Data.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/Computer_MultiLinear/Computer_Data.csv)  [Computer_Data_Multi_Linear.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/Computer_MultiLinear/Computer_MultiLinear.r) 
+ 
+ 3.  Computer Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/ToyotaCorolla_MultiLinear/Toyota%20Corolla.txt)  [ToyotaCorolla.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/ToyotaCorolla_MultiLinear/ToyotaCorolla.csv)  [ToyotaCorolla_Multi_Linear.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Linear%20Regression/Multi%20Linear/ToyotaCorolla_MultiLinear/ToyotaCorolla_MultiLinear.r) 
+
+***
+
+### 3. Logistic Regression
+
+
+ 1.  Bank  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Logistic%20Regression/Bank/Problem-Statement(Bank_data).txt)  [Bank-Full.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Logistic%20Regression/Bank/bank-full.csv)  [Bank_logistic_Regression.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Logistic%20Regression/Bank/bank_LogisticRegression.R) 
+ 
+ 2.  Credit Card  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Logistic%20Regression/creditcard/Problem%20statement%20_%20credit.txt)  [Creditcard.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Logistic%20Regression/creditcard/creditcard.csv)  [Creditcard_Logistic_regression.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Logistic%20Regression/creditcard/creditcard_LogisticRegression.R) 
+
+***
+
+### 4. Association Rule
+
+
+ 1.  Books  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/book/Problem_Statment.txt)  [Book.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/book/book.csv)  [Book.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/book/Book_AssociationRule.R) 
+ 
+ 2.  Groceries  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/groceries/Problem_Statment.txt  [Groceries.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/groceries/groceries.csv)  [Groceries.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/groceries/groceries_AssociationRule.R) 
+ 3.  Movies  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/my_movies/Problem_Statment.txt)  [My_Movies.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/my_movies/my_movies.csv)  [My_Movies.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Association%20Rule/my_movies/my_movies_AssociationRule.R) 
+
+***
+
+### 5. Clustering
+
+
+ 1.  Crime Data  [.txt](https://github.com/pravinknr/DataScience_R_Codes/blob/master/2.%20Implemetation%20of%20the%20Algorithms%20on%20Datasets/Clustering%20Analysis/Crime%20Data/ProblemSatement(crime_data).txt)  [Crime_Data.csv](https://github.com/pravinknr/DataScience_R_Codes/blob/master/2.%20Implemetation%20of%20the%20Algorithms%20on%20Datasets/Clustering%20Analysis/Crime%20Data/crime_data.csv)  [Crime_Data_Clustering.r](https://github.com/pravinknr/DataScience_R_Codes/blob/master/2.%20Implemetation%20of%20the%20Algorithms%20on%20Datasets/Clustering%20Analysis/Crime%20Data/crime_data_clustering.r) 
+ 2.  East West Airlines  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Clustering/EastWestAirlines_clustering/Problem_Statement(Airlines).txt)  [EastWestAirlines.xlsx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Clustering/EastWestAirlines_clustering/EastWestAirlines.xlsx)  [EastWestAirlines_Cluster.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Clustering/EastWestAirlines_clustering/EastWestAirlines_clustering.r) 
+
+*** 
+
+### 6. Principle Component Analysis(PCA)
+
+ 1. Wine  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/PCA/Win_PCA/PCA_problem%20Statement.txt)  [Wine.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/PCA/Win_PCA/wine.csv)  [Wine_PCA.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/PCA/Win_PCA/pca_wine.R) 
+
+***
