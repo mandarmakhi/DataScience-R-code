@@ -282,7 +282,7 @@ I have Performed this code for Extracting [Reviews of Apple Macbook Air](https:/
 ***
 
 ## Supervised Machine Learning Algorithms
-
+***
 ### 1. Decision Tree
 
 
@@ -290,7 +290,7 @@ I have Performed this code for Extracting [Reviews of Apple Macbook Air](https:/
  
  2.  Fraud Check  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Fraud_check/Problem_statement(Fraudcheck).txt)  [Fraud_Check.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Fraud_check/Fraud_check.csv)  [Fraud_Check.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Decision%20Tree/Fraud_check/fraud_data_Decision%2BTree.R) 
  
-
+***
 ### 2. Random Forest
 
 
@@ -299,7 +299,7 @@ I have Performed this code for Extracting [Reviews of Apple Macbook Air](https:/
  2.  Fraud Check  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Fraud_check/Problem_statement(Fraudcheck).txt)  [Fraud_Check.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Fraud_check/Fraud_check.csv)  [Fraud_Check.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/Fraud_check/Fraud_Check.R) 
  
  3.  Iris  [.pdf](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/iris/problem%20statement(iris).pdf)  Available in R Dataset  [Iris.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Random%20forest/iris/iris_data.R) 
-
+***
 ### 3. K-Nearest Neighbour (KNN) Classifier
 
 
@@ -308,7 +308,6 @@ I have Performed this code for Extracting [Reviews of Apple Macbook Air](https:/
 2.  Zoo  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/Zoo/Problem_Statement(Zoo).txt)  [Zoo.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/Zoo/Zoo.csv)  [Zoo.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/KNN/Zoo/Zoo_KNN.R) 
 
 ***
-
 ### 4. Artificial Neural Network (NN)
 
  1.  50 Startups  [50_Startups.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/neural%20network/50_Startups/50_Startups.csv)  [50_Startups.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/neural%20network/50_Startups/50_startups.R) 
@@ -316,3 +315,36 @@ I have Performed this code for Extracting [Reviews of Apple Macbook Air](https:/
  3.  ForestFires    [Forestfires.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/neural%20network/FOREST_FIRES/forestfires.csv)  [Forestfires.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/neural%20network/FOREST_FIRES/FOREST_FIRES.R) 
 
 ***
+### 5. Support Vector Machine(SVM)
+
+
+ 1.  Forest Fires  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/support%20vector/forestfires/forest%20fires.txt)  [Forestfires.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/support%20vector/forestfires/forestfires.csv)  [Forestfires.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/support%20vector/forestfires/Forestfires_SVM.R) 
+ 2.  Salary Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/support%20vector/SalaryData/Problem_statement(salary_data).txt)  [Salary_Data_Train.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/support%20vector/SalaryData/SalaryData_Test(1).csv), [Salary_Data_Test.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/support%20vector/SalaryData/SalaryData_Train(1).csv)  [SalaryData.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/support%20vector/SalaryData/SalaryData_SVM.R) 
+
+***
+
+### 6. Naive Bayes Classifier
+
+ 1.  Salary_Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/naive%20bayes/SalaryData/Problem_statement(salary_data).txt)  [SalaryData_Train.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/naive%20bayes/SalaryData/SalaryData_Train.csv), [SalaryData_Test.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/naive%20bayes/SalaryData/SalaryData_Test.csv)  [SalaryData.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/naive%20bayes/SalaryData/salary_NaiveBayes.r) 
+ 2.  Sms Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/naive%20bayes/sms/Problem_Statement.txt-2)  [Sms_Raw_NB.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/naive%20bayes/sms/sms_raw_NB.csv)  [Sms_Raw_NB.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/naive%20bayes/sms/Sms_NaiveBayes.R) 
+
+***
+
+### 7. Forecasting Analysis
+
+
+ 1.  Airlines Data  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/Airlines_forcasting/Problem_statement.txt)  [Airlines+Data.xlsx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/Airlines_forcasting/Airlines%2BData.xlsx)  [Airlines+Data.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/Airlines_forcasting/Airlines_forcasting.R) 
+ 2.  Coca Cola Sales  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/CocaCola_forcasting/Problem_statement.txt)  [CocaCola_Sales_Rawdata.xlsx](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/CocaCola_forcasting/CocaCola_Sales_Rawdata.xlsx)  [CocaCola_Sales_Rawdata.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/CocaCola_forcasting/CocaCola_forcasting.Rr) 
+ 3.  Plastic Sales  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/PlasticSales_ForeCasting/Problem_statement.txt)  [PlasticSales.csv](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/PlasticSales_ForeCasting/PlasticSales.csv)  [PlasticSales.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Forcasting/PlasticSales_ForeCasting/PlasticSales_ForeCasting.R) 
+
+***
+
+### 8. NLP - Natural Language Processing(Text Mining)
+
+You Require [*Positive-Words*](https://github.com/pravinknr/DataScience_R_Codes/blob/master/2.%20Implemetation%20of%20the%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/NLP%20-%20Natural%20Language%20Processing%20(Text%20Mining)/Amazon%20HP%20Review/positive-words.txt), [*Negative-Words*](https://github.com/pravinknr/DataScience_R_Codes/blob/master/2.%20Implemetation%20of%20the%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/NLP%20-%20Natural%20Language%20Processing%20(Text%20Mining)/Amazon%20HP%20Review/negative-words.txt) and [*Stop-Words*](https://github.com/pravinknr/DataScience_R_Codes/blob/master/2.%20Implemetation%20of%20the%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/NLP%20-%20Natural%20Language%20Processing%20(Text%20Mining)/Amazon%20HP%20Review/stop.txt) for this Analysis.
+
+
+ 1.  Amazon iphone Review  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Text%20Mining/Amazon%20iphone/Assignment.txt)  [iphone Reviews.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Text%20Mining/Amazon%20iphone/iphone%20reviews.txt)  [Amazon_iphone_Reviews.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Text%20Mining/Amazon%20iphone/Amazon_iphone_nlp.R) 
+ 2.  IMDB Money heist WebSeries Review  [.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Text%20Mining/Amazon%20iphone/Assignment.txt)  [Money heist_Reviews.txt](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Text%20Mining/IMDB/money.txt)  [Money Heist.r](https://github.com/mandarmakhi/DataScience-R-code/blob/master/2.%20Algorithms%20on%20Datasets/Supervised%20Machine%20Learning%20Techniques/Text%20Mining/IMDB/IMDB_Review2.R) 
+
+
